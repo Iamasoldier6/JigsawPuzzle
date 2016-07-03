@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="title_text">#FFFFFF</color>
+    <color name="main_bg">#3EC5FF</color>
+    <color name="main_text">#FFFFFF</color>
+    <color name="tv_click">#33444444</color>
+</resources>
